@@ -51,9 +51,9 @@ Before uploading the sketch, you must configure the credentials and settings in 
 Update the following definitions with your Blynk project details:
 
 ```cpp
-#define BLYNK_TEMPLATE_ID "TMPL3_hh1jA6g"
+#define BLYNK_TEMPLATE_ID "TMPL3_hh6g"
 #define BLYNK_TEMPLATE_NAME "Worker Safety"
-#define BLYNK_AUTH_TOKEN "eiHEjyS-5FjRplpQu53IsuZVMSGO6116"
+#define BLYNK_AUTH_TOKEN "eiHEjyS-5FjRplpQu53IsSGO6116"
 ```
 
 ### 2. Wi-Fi Credentials
@@ -61,8 +61,8 @@ Update the following definitions with your Blynk project details:
 Enter your Wi-Fi network's SSID and password:
 
 ```cpp
-char ssid[] = "Meen";
-char pass[] = "12345678";
+char ssid[] = "Mn";
+char pass[] = "123458";
 ```
 
 ### 3. Telegram Bot
@@ -70,8 +70,8 @@ char pass[] = "12345678";
 Set your Telegram Bot Token and the recipient's Chat ID:
 
 ```cpp
-String BOT_TOKEN = "8666052263:AAHsAiq7arVWD_JWQ7aO94u97fpEbG00MNk";
-String CHAT_ID = "5306803052";
+String BOT_TOKEN = "8666052263:AAHsAiq7arVWD_JWQ7aO94u97fG00MNk";
+String CHAT_ID = "5303052";
 ```
 
 ### 4. Alert Thresholds
